@@ -42,6 +42,6 @@ been learning React js and React Native, Wanted to move to backend language
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Bhrugu14"><img src="https://github-readme-stats.vercel.app/api?username=Bhrugu14&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bhrugu14's GitHub stats" /></a>
+(https://github-readme-stats.vercel.app/api?username=Bhrugu14)](https://github.com/Bhrugu14/github-readme-stats)
 
 <a href="https://github.com/Bhrugu14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhrugu14&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
