@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/bhrugu-tundeliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/bhrugu-tundeliya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/7034453/bhrugu-tundeliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7034453/bhrugu-tundeliya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/knowbhrugu14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/knowbhrugu14" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/knowbhrugu14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/knowbhrugu14/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@bhrugu1409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@bhrugu1409" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/bhrugu-tundeliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/bhrugu-tundeliya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7034453/bhrugu-tundeliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7034453/bhrugu-tundeliya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/knowbhrugu14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/knowbhrugu14" height="30" width="40" /></a>
+<a href="https://leetcode.com/knowbhrugu14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/knowbhrugu14/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@bhrugu1409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@bhrugu1409" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
